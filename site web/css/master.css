@@ -1,0 +1,43 @@
+header{
+  border: solid red;
+  flex: block;
+  justify-content: space-between;
+  background-color: black;
+  text-align: center;
+
+  z-index: 999;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+body {
+color:black;
+background-color:white;
+background-image:url(images/dj_snake.jpg);
+}
+
+
+footer{
+  background-color: black;
+}
+
+nav {
+  border: solid blue;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  left: 0;
+
+
+
+}
+
+li{
+  position: relative;
+  display: inline-block;
+  padding: 0 15px;
+  left: 0;
+}
